@@ -1,4 +1,4 @@
-# Philosophers
+# philosophers
 Validated on 27-06-2021.
 
 
